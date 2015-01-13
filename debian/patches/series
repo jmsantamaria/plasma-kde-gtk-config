@@ -1,3 +1,0 @@
-migration-from-package-src:kcm-gtk.patch
-fix-loading-config-options.patch
-fix-desktop-file.patch

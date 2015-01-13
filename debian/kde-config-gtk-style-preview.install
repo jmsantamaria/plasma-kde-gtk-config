@@ -1,2 +1,2 @@
-usr/lib/kde4/libexec/gtk_preview
-usr/lib/kde4/libexec/gtk3_preview
+usr/lib/*/libexec/gtk3_preview
+usr/lib/*/libexec/gtk_preview

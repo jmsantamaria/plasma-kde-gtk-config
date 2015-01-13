@@ -1,20 +1,5 @@
 #!/usr/bin/make -f
 
-CPPFLAGS:=$(shell dpkg-buildflags --get CPPFLAGS)
-CFLAGS:=$(shell dpkg-buildflags --get CFLAGS) $(CPPFLAGS)
-CXXFLAGS:=$(shell dpkg-buildflags --get CXXFLAGS) $(CPPFLAGS)
-LDFLAGS:=$(shell dpkg-buildflags --get LDFLAGS) -Wl,--as-needed
-export CPPFLAGS CFLAGS CXXFLAGS LDFLAGS
-
-%:
-	dh $@ --parallel
-
-override_dh_install:
-	mv debian/tmp/usr/share/icons/hicolor/48x48/apps/kde-gtk-config.png \
-	   debian/tmp/usr/share/icons/hicolor/48x48/apps/gtkconfig.png
-	dh_install
-
-get-orig-source:
-	uscan --noconf --verbose --force-download --rename --download-current-version
+include /usr/share/pkg-kde-tools/qt-kde-team/3/debian-qt-kde.mk
 
 .PHONY: override_dh_auto_test
