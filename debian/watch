@@ -1,4 +1,4 @@
 version=3
-opts=pasv \
-  ftp://ftp.kde.org/pub/kde/stable/kde-gtk-config/([\d\.]+)/src/kde-gtk-config-([\d\.]+)\.tar\.xz \
-  debian get-orig-source
+http://download.kde.org/unstable/plasma/([\d\.]+)/kde-gtk-config-(.*)\.tar\.xz
+
+http://download.kde.org/stable/plasma/([\d\.]+)/kde-gtk-config-(.*)\.tar\.xz
