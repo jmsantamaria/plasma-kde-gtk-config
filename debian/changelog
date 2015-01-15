@@ -1,11 +1,11 @@
-kde-gtk-config (4:5.1.95-0ubuntu1) UNRELEASED; urgency=medium
+kde-gtk-config (4:5.1.95-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
   * Bump dh compat to 9
   * Switch to autpkgtest since tests require fonts.
   * Drop all patches, no longer applicable due to kf5 port.
 
- -- Harald Sitter <sitter@kde.org>  Tue, 13 Jan 2015 10:12:58 +0100
+ -- Harald Sitter <sitter@kde.org>  Thu, 15 Jan 2015 01:21:22 +0100
 
 kde-gtk-config (3:2.2.1-1) unstable; urgency=low
 
