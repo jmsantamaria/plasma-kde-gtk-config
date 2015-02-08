@@ -1,4 +1,9 @@
-etc/
+etc/xdg/cgcgtk3.knsrc
+etc/xdg/cgcicon.knsrc
+etc/xdg/cgctheme.knsrc
 usr/lib/*/libexec/reload_gtk_apps
 usr/lib/*/qt5/plugins/kcm_kdegtkconfig.so
-usr/share/
+usr/share/icons/*/*/apps/kde-gtk-config.*
+usr/share/kcm-gtk-module/
+usr/share/kservices5/kde-gtk-config.desktop
+usr/share/locale/*/*/kde-gtk-config.mo
