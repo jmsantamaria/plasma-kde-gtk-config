@@ -14,7 +14,7 @@ Build-Depends: cmake (>= 2.8.12),
                libkf5i18n-dev,
                libkf5kcmutils-dev,
                libkf5newstuff-dev,
-               qbase5-dev,
+               qtbase5-dev,
                pkg-kde-tools (>= 0.15.16)
 Homepage: https://projects.kde.org/projects/kde/workspace/kde-gtk-config
 Vcs-Git: git://anonscm.debian.org/pkg-kde/plasma/kde-gtk-config.git
