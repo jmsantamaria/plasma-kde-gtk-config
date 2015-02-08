@@ -1,3 +1,9 @@
+kde-gtk-config (4:5.2.0-1~) UNRELEASED; urgency=medium
+
+  * Prepare initial Debian release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 08 Feb 2015 21:38:12 +0100
+
 kde-gtk-config (4:5.2.0-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
