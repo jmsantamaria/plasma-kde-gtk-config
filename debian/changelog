@@ -4,6 +4,7 @@ kde-gtk-config (4:5.2.0-1~) UNRELEASED; urgency=medium
   * Add myself as Uploader.
   * Update build dependencies to build against experimental and to
     follow cmake.
+  * Update copyright information.
 
  -- Maximiliano Curia <maxy@debian.org>  Sun, 08 Feb 2015 21:38:12 +0100
 
