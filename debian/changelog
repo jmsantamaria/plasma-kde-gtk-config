@@ -1,6 +1,7 @@
 kde-gtk-config (4:5.2.1-1~) UNRELEASED; urgency=medium
 
   * New upstream release (5.2.1).
+  * New patch: fix_fonthelper
 
  -- Maximiliano Curia <maxy@debian.org>  Sat, 21 Mar 2015 09:54:09 +0100
 
