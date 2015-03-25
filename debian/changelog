@@ -1,11 +1,11 @@
-kde-gtk-config (4:5.2.2-1~) UNRELEASED; urgency=medium
+kde-gtk-config (4:5.2.2-1) experimental; urgency=medium
 
   * New upstream release (5.2.1).
   * New patch: fix_fonthelper
   * New upstream release (5.2.2).
   * Remove patch: fix_fonthelper
 
- -- Maximiliano Curia <maxy@debian.org>  Wed, 25 Mar 2015 09:58:28 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 25 Mar 2015 23:17:51 +0100
 
 kde-gtk-config (4:5.2.2-0ubuntu1) vivid; urgency=medium
 
