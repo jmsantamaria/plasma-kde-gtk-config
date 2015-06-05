@@ -1,14 +1,6 @@
 kde-gtk-config (4:5.3.1-0ubuntu1) wily; urgency=medium
 
-  [ Jonathan Riddell ]
-  * Plasma 5.3 beta
   * new upstream release
-
-  [ Scarlett Clark ]
-  * Vivid backport
-
-  [ Jonathan Riddell ]
-  * New upstream release
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 05 Jun 2015 02:26:22 +0200
 
