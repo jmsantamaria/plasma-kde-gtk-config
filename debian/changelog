@@ -1,3 +1,10 @@
+kde-gtk-config (4:5.3.1-0ubuntu2) wily; urgency=medium
+
+  * debian/tests/control: Dep on fonts-oxygen: ttf-oxygen-font-family was
+    dropped.
+
+ -- Iain Lane <iain@orangesquash.org.uk>  Wed, 10 Jun 2015 12:27:32 +0100
+
 kde-gtk-config (4:5.3.1-0ubuntu1) wily; urgency=medium
 
   * new upstream release
