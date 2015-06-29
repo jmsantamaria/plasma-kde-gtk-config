@@ -2,18 +2,21 @@ Source: kde-gtk-config
 Section: kde
 Priority: optional
 Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
-Uploaders: Boris Pek <tehnick-8@mail.ru>
-Build-Depends: cmake,
-               debhelper (>= 8),
-               extra-cmake-modules,
+Uploaders: Boris Pek <tehnick-8@mail.ru>, Maximiliano Curia <maxy@debian.org>
+Build-Depends: cmake (>= 2.8.12),
+               debhelper (>= 9),
+               extra-cmake-modules (>= 0.0.9),
+               kio-dev,
                libgtk-3-dev,
                libgtk2.0-dev,
                libkf5archive-dev,
                libkf5configwidgets-dev,
                libkf5i18n-dev,
+               libkf5iconthemes-dev,
                libkf5kcmutils-dev,
                libkf5newstuff-dev,
-               pkg-kde-tools
+               pkg-kde-tools (>= 0.15.16),
+               qtbase5-dev (>= 5.4)
 Homepage: https://projects.kde.org/projects/kde/workspace/kde-gtk-config
 Vcs-Git: git://anonscm.debian.org/pkg-kde/plasma/kde-gtk-config.git
 Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/plasma/kde-gtk-config.git

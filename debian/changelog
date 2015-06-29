@@ -4,6 +4,22 @@ kde-gtk-config (4:5.3.1-0ubuntu1) wily; urgency=medium
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 05 Jun 2015 02:26:22 +0200
 
+kde-gtk-config (4:5.3.1-1~) UNRELEASED; urgency=medium
+
+  * New upstream release (5.3.0).
+  * New upstream release (5.3.1).
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 05 Jun 2015 11:56:51 +0200
+
+kde-gtk-config (4:5.2.2-1) experimental; urgency=medium
+
+  * New upstream release (5.2.1).
+  * New patch: fix_fonthelper
+  * New upstream release (5.2.2).
+  * Remove patch: fix_fonthelper
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 25 Mar 2015 23:17:51 +0100
+
 kde-gtk-config (4:5.2.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
@@ -15,6 +31,17 @@ kde-gtk-config (4:5.2.1-0ubuntu1) vivid; urgency=medium
   * New upstream release
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 23 Feb 2015 09:36:51 -0800
+
+kde-gtk-config (4:5.2.0-1) experimental; urgency=medium
+
+  * Prepare initial Debian release.
+  * Add myself as Uploader.
+  * Update build dependencies to build against experimental and to
+    follow cmake.
+  * Update copyright information.
+  * Update install files.
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 09 Feb 2015 00:40:29 +0100
 
 kde-gtk-config (4:5.2.0-0ubuntu1) vivid; urgency=medium
 

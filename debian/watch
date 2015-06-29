@@ -1,4 +1,3 @@
 version=3
-http://download.kde.org/unstable/plasma/([\d\.]+)/kde-gtk-config-(.*)\.tar\.xz
-
-http://download.kde.org/stable/plasma/([\d\.]+)/kde-gtk-config-(.*)\.tar\.xz
+http://download.kde.org/unstable/plasma/([\d.]+)/kde-gtk-config-([\d.]+)\.tar\.xz
+http://download.kde.org/stable/plasma/([\d.]+)/kde-gtk-config-([\d.]+)\.tar\.xz
