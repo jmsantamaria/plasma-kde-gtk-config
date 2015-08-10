@@ -2,7 +2,7 @@ kde-gtk-config (4:5.3.95-0ubuntu1) wily; urgency=medium
 
   * New upstream release
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 10 Aug 2015 23:10:33 +0200
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 10 Aug 2015 23:12:19 +0200
 
 kde-gtk-config (4:5.3.2-0ubuntu1) wily; urgency=medium
 
