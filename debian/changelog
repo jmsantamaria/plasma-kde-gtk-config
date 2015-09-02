@@ -1,3 +1,9 @@
+kde-gtk-config (4:5.4.0-1~) UNRELEASED; urgency=medium
+
+  * New upstream release (5.4.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 02 Sep 2015 23:50:15 +0200
+
 kde-gtk-config (4:5.3.2-1) unstable; urgency=medium
 
   * New upstream release (5.3.2).
