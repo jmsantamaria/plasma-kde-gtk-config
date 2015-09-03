@@ -21,7 +21,6 @@ Homepage: https://projects.kde.org/projects/kde/workspace/kde-gtk-config
 Vcs-Git: git://anonscm.debian.org/pkg-kde/plasma/kde-gtk-config.git
 Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/plasma/kde-gtk-config.git
 Standards-Version: 3.9.6
-XS-Testsuite: autopkgtest
 
 Package: kde-config-gtk-style
 Architecture: any
